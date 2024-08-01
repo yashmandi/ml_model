@@ -1,0 +1,344 @@
+Date of Birth:   4th October 1968
+
+Summary Information:
+
+    . Member of the Institute of Measurement and Control.
+    . Registered with the Engineering Council as an Incorporated Engineer.
+    . Working knowledge of DOS, OS2, VAX VMS, Win3.x, Win95,  WinNT,  Win2K,
+      WinXP, Windows Vista, Windows 7 and Windows 10 operating systems.
+    .   PLC   Processor   Experience;   GE-Fanuc   (90-30,   90-70),   Allen
+      Bradley/Rockwell   (PLC3,   PLC5,   SLC,   MicroLogix,   ControlLogix,
+      CompactLogix), Siemens (S7-300, S7-400,  S7-1500),  Modicon  (984-145,
+      984-485).
+    . PLC Programming Packages; Rockwell (AB6200 Tools,  A.I  Series  Tools,
+      RSLogix5, RSLogix500,  RSLogix5000,  Studio5000,  RSNetworx),  Siemens
+      (Simatic  Manager,  Step7,  TIA  Portal),  GE-Fanuc  (LM90),   Modicon
+      (Modsoft).
+    . DCS Experience; BBL MicroB, Bristol Babcock Ltd  Network  3000  (Accol
+      programming and Enterprise Server/Windows top  end),  Siemens  Simatic
+      PCS7 (SCL, CFC, SFC, OS), Simatic  PCS7/APACS+,  Simatic  PCS7  Safety
+      Matrix.
+    . SCADA Experience;  Siemens  Simatic  WinCC,  USData  Factorylink  ECS,
+      Iconics Genesis.
+    .  HMI  Experience;  Red  Lion  Paradigm  HMIs,  Siemens  Simatic  Wincc
+      Flexible, Siemens WinCC Advanced,  Rockwell  Panelbuilder32,  Rockwell
+      FactoryTalk View ME.
+    . Networks Experience; Ethernet, Modbus,  Modbus  Plus,  MPI,  Profibus,
+      Devicenet, Controlnet, DH+, DH485, DF1, Dupline, RS232, RS422, RS485.
+    . End user standards experience; Thames Water  Utilities,  Welsh  Water,
+      Severn Trent Water, Scottish  Water,  Jaguar  Land  Rover  DCP,  Roche
+      Ireland PCS7.
+    . Able to deliver projects on time, in budget and to required quality.
+    . Full UK driving licence.
+    . UK and Irish Passport holder
+
+
+Education:
+
+|Date         |Establishment          |Qualification                     |
+|February 1997|The Open University    |MS284 An Introduction To Calculus |
+|to November  |                       |(30 CATS points) - Pass Grade 2   |
+|1997         |                       |                                  |
+|February 1996|The Open University    |S271 Discovering Physics (30 CATS |
+|to November  |                       |points) - Pass Grade 3            |
+|1996         |                       |                                  |
+|February 1995|The Open University    |T292 Instrumentation (30 CATS     |
+|to November  |                       |points) - Pass Grade 3            |
+|1995         |                       |T223 Microprocessor-based         |
+|             |                       |Computers (30 CATS points) - Pass |
+|             |                       |Grade 2                           |
+|February 1994|The Open University    |T102 Technology Foundation Course |
+|to November  |                       |(60 CATS points) - Pass           |
+|1994         |                       |                                  |
+|22/11/1988 to|The Coventry Skill     |Pneumatic Circuitry Part 1        |
+|25/11/1988   |Centre                 |                                  |
+|             |Coventry               |                                  |
+|September    |Tile Hill College of   |City and Guilds Part 1 Practical  |
+|1987 to July |F.E.                   |Industrial Electronics (on-site   |
+|1989         |Coventry               |course at Courtaulds)             |
+|September    |Coventry University    |H.N.C Electrical/Electronic       |
+|1987 to July |Coventry               |Engineering                       |
+|1989         |                       |                                  |
+|September    |Coventry Technical     |O.N.C Electrical/Electronic       |
+|1985 to July |College                |Engineering                       |
+|1987         |Coventry               |                                  |
+|September    |Tile Hill College of   |Man-made Fibres Industry Training |
+|1985 to July |Further Education      |                                  |
+|1986         |Coventry               |Advisory Board Certificate of     |
+|             |                       |Broad Based Engineering Training  |
+|             |                       |(E.I.T.B approved apprenticeship  |
+|             |                       |first year training)              |
+|September    |Cardinal Newman R.C.   |English Language CSE Grade 2      |
+|1980 to July |School                 |Religious Education CSE Grade 1   |
+|1985         |Coventry               |Art    O'Level Grade C            |
+|             |                       |Physics   O'Level Grade B         |
+|             |                       |Electronics  O'Level Grade B      |
+|             |                       |Mathematics  O'Level Grade C      |
+
+Training Courses:
+
+|Date         |Establishment          |Course                            |
+|21/01/2019-25|Siemens Sitrain        |TIA-PRO3 TIA Portal Programming 3 |
+|/01/2019     |Manchester             |Course                            |
+|14/01/2019-18|Siemens Sitrain        |TIA-SYSUP TIA Portal System       |
+|/01/2019     |Manchester             |Retraining Course                 |
+|17/11/2017   |MTC Coventry           |Siemens WinCC Masterclass         |
+|04/10/2017   |MTC Coventry           |Siemens TIA Portal Innovation Tour|
+|             |                       |2017                              |
+|15/09/2016   |MTC Coventry           |Siemens TIA Portal Innovation Tour|
+|             |                       |2016                              |
+|09/06/2015   |Stratford Manor Hotel  |Siemens TIA Portal Innovation Tour|
+|             |                       |2015                              |
+|19/01/2015-23|Jaguar Land Rover      |DCP Programming Course            |
+|/01/2015     |Solihull               |                                  |
+|14/11/2014   |MCS Control Systems    |Siemens TIA Portal Training Day   |
+|             |Coventry               |presented by Manjit Ojla of       |
+|             |                       |Siemens                           |
+|12/06/2006-  |Siemens Sitrain        |S7PRG2 Simatic S7 Level 2         |
+|16/06/2006   |Manchester             |Programming Course                |
+|08/05/2006-12|Siemens CS2 Karlsruhe  |Simatic Batch V6 Workshop For     |
+|/05/2006     |Germany                |Technical Consultants (an internal|
+|             |                       |Siemens A&D only course)          |
+|10/04/2006-12|Siemens CS2 Karlsruhe  |PCS7 V6.1 Failsafe workshop (an   |
+|/04/2006     |Germany                |internal Siemens A&D only course) |
+|03/04/2006-06|Siemens CS2 Karlsruhe  |PCS7 V6.1 Library workshop (an    |
+|/04/2006     |Germany                |internal Siemens A&D only course) |
+|22/11/2005-24|Siemens CS2 Karlsruhe  |Technical Consultants Conference  |
+|/11/2005     |Germany                |For Process Automation (an        |
+|             |                       |internal Siemens only annual      |
+|             |                       |conference)                       |
+|22/08/2005-26|Siemens Automation     |PCS7 Workshop (an internal        |
+|/08/2005     |Solutions Coventry     |training workshop with a colleague|
+|             |                       |from SP Germany)                  |
+|31/01/2004-03|Siemens CS2 Karlsruhe  |PCS7 V6.1 Technical Update        |
+|/02/2004     |Germany                |Workshop (an internal Siemens A&D |
+|             |                       |only course)                      |
+|15/09/2003-19|Siemens Sitrain        |PCS7-APPS PCS7 Applications       |
+|/09/2003     |Manchester             |Training Course                   |
+
+Employment History:
+
+|Date         |Employer               |Position                          |
+|December 2014|Holland McDermott      |Control Systems Engineer          |
+|to date      |Automation Ltd         |                                  |
+|             |324 Lythalls Lane      |                                  |
+|             |Holbrooks              |                                  |
+|             |Coventry CV6 6GA       |                                  |
+|Duties:                                                                  |
+|Working through my own limited company carrying out DCS, PLC and SCADA   |
+|programming on a freelance basis.  Activities include software design and|
+|coding of PLC and DCS control systems. Production and review of I/O      |
+|schedules, user requirements specifications, hardware design             |
+|specifications, functional design specifications, detailed design        |
+|specifications, test specifications, operator manuals, risk assessments  |
+|and method statements. Peer review of documentation and software. Factory|
+|acceptance testing of software. Site commissioning of PLC/DCS software.  |
+|Operator training.                                                       |
+|Contracts:                                                               |
+|Dates        |Customer               |Position / Project                 |
+|April 2023 to|Bilfinger UK           |Senior Systems Engineer            |
+|Date         |                       |UKAEA                              |
+|             |                       |H3AT Tritium Recycling and Research|
+|             |                       |Facility PCS7 V9.1 DCS             |
+|July 2022 to |Wood PLC               |Senior Automation Engineer         |
+|April 2023   |                       |National Grid St Fergus Gas        |
+|             |                       |Compressor Station PCS7            |
+|             |                       |Upgrade/Expansion                  |
+|June 2021 to |Digital Applications   |Control Systems Engineer           |
+|April 2022   |International Ltd      |Helix Subsea Platform IRS2 Safety  |
+|             |                       |System                             |
+|             |                       |Shetland Energy Recovery Plant PCS7|
+|             |                       |Modifications                      |
+|Jan 2019 to  |Siemens Customer       |Control Systems Engineer           |
+|March 2021   |Services Manchester    |Encirc Derrylin Glass Plant C      |
+|             |                       |Furnace Rebuild PCS7 V8.1          |
+|             |                       |Modifications                      |
+|             |                       |Encirc Elton Glass Plant PCS7 V9.0 |
+|             |                       |Modifications                      |
+|             |                       |Encirc Derrylin Glass Plant PCS7   |
+|             |                       |V8.1 Modifications                 |
+|September    |Siemens Automation     |Control Systems Engineer           |
+|2017 to      |Engineering Manchester |Welsh Water Trial PCS7 Upgrades    |
+|December 2018|                       |Derby ACT Plant PCS7 V8.1          |
+|             |                       |commissioning and code             |
+|             |                       |modifications                      |
+|March 2016 to|Roche Pharmaceuticals  |Automation Engineer                |
+|September    |Ireland                |Area 4 Plant RS3 DCS replacement   |
+|2017         |                       |with PCS7 V8.2 and Simatic Batch to|
+|             |                       |S88, GAMP5 and GMP                 |
+|December 2016|Cougar Automation Ltd  |Control Systems Engineer           |
+|to March 2017|                       |Victrex Plastic Bead Pilot Plant   |
+|             |                       |PCS7                               |
+|December 2014|The Automated          |Control Systems Engineer           |
+|to December  |Technology Group       |JLR Castle Bromwich XF Cladding    |
+|2015         |                       |Line Rockwell PLC/HMI              |
+
+
+|Date         |Employer               |Position                          |
+|April 2011 to|MCS Control Systems Ltd|Senior Systems Engineer           |
+|November 2014|                       |                                  |
+|             |Phoenix Park           |                                  |
+|             |Bayton Rd              |                                  |
+|             |Exhall                 |                                  |
+|             |Coventry CV7 9QN       |                                  |
+|             |England                |                                  |
+|Duties:                                                                  |
+|Software design and coding of PLC and SCADA control systems. Production  |
+|of I/O schedules, functional design specifications and test              |
+|specifications. Documentation and software reviews. Factory acceptance   |
+|testing of software and associated control panels. Site commissioning of |
+|PLC and SCADA software.  Project summary; Weetabix Cocoa Additions       |
+|SLC5/04 and Panelview HMI modifications; Long Crendon STW Recirculation  |
+|Pumping Station CompactLogix and Panelview HMI modifications; Westerham  |
+|WTW CompactLogix PLC and Panelview HMI FDS, CFAT and commissioning;      |
+|Sundridge WTW CompactLogix PLC and Panelview HMI FDS, CFAT and           |
+|commissioning; West Wickham WTW CompactLogix PLC and Panelview HMI FDS,  |
+|CFAT and commissioning; Severn Trent Dosing Rig CompactLogix PLC         |
+|software; Mertsham STW RTUs 1 to 4 CompactLogix PLCs and Panleview HMIs  |
+|FDS, software, CFAT and commissioning; Badentinan WTW Siemens S7-300 PLCs|
+|and Wincc Flexible HMIs FDS, CFAT and commissioning; Woods Farm SLC5/04  |
+|PLC and Panelview HMI Ortho Dosing modifications; Castlehill Reservoir   |
+|FDS; Moffat PS and Chapelhill WTW Siemens S7-300 PLCs and Wincc Flexible |
+|HMIs CFAT and commissioning; Dagnall STW CompactLogix PLC and Panelview  |
+|Plus HMI software, FDS, CFAT and commissioning; Auckland Rd SPS          |
+|ControlLogix PLC and Panelview Plus HMI software, FDS and IFAT.          |
+
+
+|Date         |Employer               |Position                          |
+|July 2006 to |McDermott Automation   |Control Systems Engineer          |
+|April 2011   |Ltd                    |                                  |
+|             |324 Lythalls Lane      |                                  |
+|             |Holbrooks              |                                  |
+|             |Coventry CV6 6GA       |                                  |
+|Duties:                                                                  |
+|Working through my own limited company carrying out DCS, PLC and SCADA   |
+|programming on a freelance basis.  Activities include software design and|
+|coding of PLC and DCS control systems. Production of I/O schedules,      |
+|hardware design specifications, functional design specifications,        |
+|detailed design specifications, test specifications, operator manuals.   |
+|Factory acceptance testing of software. Site commissioning of PLC/DCS    |
+|software. Operator training.  Project summary; Maerdy WTW WinCC SCADA    |
+|faceplates and mimics for Oasis Software Solutions; UUOS Elan Valley WTW |
+|PCS7 DCS design and configuration for Oasis Software Solutions;  Fuji    |
+|Dyes Safety Matrix ESD system for Siemens A&D AS SP; Warrington Pumping  |
+|Station PCS7 configuration for Siemens A&D AS SP; Fuji Dyes PCS7 CFC and |
+|mimic modifications for Siemens A&D AS SP; Builth Wells WTW PCS7 software|
+|for MCS Control Systems Ltd; Aviemore WinCC SCADA for MCS Control Systems|
+|Ltd.                                                                     |
+
+|Date         |Employer               |Position                          |
+|November 2001|Siemens Automation     |Technical Specialist              |
+|to July 2006 |Solutions              |                                  |
+|             |Orchard Court 3        |                                  |
+|             |Binley Business Park   |                                  |
+|             |Coventry CV3 2TQ       |                                  |
+|             |England                |                                  |
+|Duties:                                                                  |
+|Technical Specialist for the water industry team, responsible for setting|
+|up of standard PCS7 libraries for the water industry and providing       |
+|technical support and mentoring to other engineers to improve their PCS7 |
+|knowledge.  Software design and coding of PLC and DCS control systems.   |
+|Production of I/O schedules, hardware design specifications, functional  |
+|design specifications, detailed design specifications and test           |
+|specifications. Documentation and software reviews. Factory acceptance   |
+|testing of software and associated control panels. Site commissioning of |
+|PLC/DCS software.  Customer industries included Food, Water, Oil & Gas,  |
+|and Manufacturing.                                                       |
+
+
+|Date         |Employer               |Position                          |
+|June 1997 to |MCS Control Systems Ltd|Senior Systems Engineer           |
+|November 2001|                       |                                  |
+|             |Phoenix Park           |                                  |
+|             |Bayton Rd              |                                  |
+|             |Exhall                 |                                  |
+|             |Coventry CV7 9QN       |                                  |
+|             |England                |                                  |
+|Duties:                                                                  |
+|Hardware and software design on MCC and ICA control panels. Site         |
+|commissioning of PLC software. Project management where appropriate on   |
+|some contracts. Projects summary; Southern Water Services Pennington     |
+|W.W.T.W Sludge Treatment Plant site commissioning and Aeration plant     |
+|revised control philosophy PLC software and commissioning; South West    |
+|Water Services Restormel WTW Area 7, 8, 9 & 10 panel designs; Dwr Cymru  |
+|Welsh Water Swansea Bay S.T.W project management; South West Water       |
+|Services Stithians WTW Sludge Plant MCC; Thames Water Utilities Aylesbury|
+|S.T.W PLC and HMI software. Southern Water Services Tunbridge Wells North|
+|S.T.W PLC software.  SWWS Restormel WTW Filter Plant upgrade to PLC      |
+|software and control panels to meet Badenoch II report requirements. SWWS|
+|Drift WTW Pressure Filter Plant new Modicon PLC and software to meet     |
+|Badenoch II report requirements.                                         |
+
+
+|Date         |Employer               |Position                          |
+|March 1996 to|Triplex Safety Glass   |Senior Electrical Design & Project|
+|June 1997    |Ltd                    |Engineer                          |
+|             |Eckersall Rd           |                                  |
+|             |Kings Norton           |                                  |
+|             |Birmingham B38 8SR     |                                  |
+|             |England                |                                  |
+|Duties:                                                                  |
+|Design and Project Management work to move or upgrade old plant, retrofit|
+|new items, and installation of new pieces of plant in a laminated        |
+|windscreen factory. Use of MS Project to produce Gantt Charts for project|
+|planning and timing. Programming of GE-Fanuc PLCs, GWBASIC PC based      |
+|supervisory systems and USDATA Factorylink ECS SCADA Systems.  Liaison   |
+|with manufacturer's representatives for the selection of new equipment.  |
+|Supervision of contractors during installation and commissioning.        |
+|Technical support to site maintenance personnel in solving problems with |
+|existing plant and control systems.                                      |
+
+
+|Date         |Employer               |Position                          |
+|November 1990|Bristol Babcock Ltd    |Field Support Engineer            |
+|to March 1996|Vale Industrial Estate |                                  |
+|             |Stourport Road         |                                  |
+|             |Kidderminster          |                                  |
+|             |DY11 7QP               |                                  |
+|             |England                |                                  |
+|Duties:                                                                  |
+|Service contracts, traceable calibrations and breakdown maintenance on   |
+|analogue and digital instrumentation and control systems at customer     |
+|sites throughout the UK.  Customer sites covered a wide range of         |
+|industries including food, pharmaceutical, coal, paper, steel, power and |
+|water.  Participation in a 24 hour UK wide call out rota.  Generation of |
+|test specifications, commissioning, ACCOL and Enterprise Windows software|
+|modification, operator training and client witness testing for BBL's     |
+|Network 3000 DCS/SCADA systems.  A large part of this commissioning time |
+|being spent at Thames Water sewage and water treatment sites and London  |
+|Water Ring Main sites.  Paperwork associated with BBL's quality assurance|
+|system.                                                                  |
+
+
+|Date         |Employer               |Position                          |
+|August 1989  |Courtaulds Grafil Ltd  |Instrument Mechanic               |
+|to November  |P.O.Box 16             |                                  |
+|1990         |Foleshill Road         |                                  |
+|             |Coventry               |                                  |
+|             |England                |                                  |
+|Duties:                                                                  |
+|Preventative and breakdown maintenance cover of electronic and pneumatic |
+|instrumentation on acrylic fibre and carbon fibre production plants.     |
+|Manufacture of type K and type R thermocouples.  Calibration of          |
+|temperature probes, indicators and controllers to traceable standards.   |
+|Certification of these calibrations being carried out to satisfy the     |
+|requirements of a BS5750 quality assurance system. Maintenance and       |
+|calibration of gas monitoring instrumentation.  Small scale installation |
+|projects.  Leak detection of furnaces after element changes using a      |
+|helium leak detector.  Design and building of pneumatic control circuits.|
+|                                                                         |
+
+
+|Date         |Employer               |Position                          |
+|September    |Courtaulds Grafil Ltd  |Apprentice Instrument Technician  |
+|1985 to      |P.O.Box 16             |                                  |
+|August 1989  |Foleshill Road         |                                  |
+|             |Coventry               |                                  |
+|             |England                |                                  |
+|Duties:                                                                  |
+|Duties as described for position of Instrument Mechanic above, but work  |
+|carried out under the supervision of a qualified tradesman.  Log book    |
+|entries made on a weekly basis to complete E.I.T.B training modules.     |
+|Awarded Engineering Maintenance NVQ Level 3 upon completion of           |
+|apprenticeship.                                                          |
+

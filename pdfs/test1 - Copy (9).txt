@@ -1,0 +1,75 @@
+Mia Rodriguez
+[6789 Cedar Drive, City, State, ZIP]
+[Email: miarodriguez@example.com]
+[Phone: (456) 789-0123]
+[LinkedIn: linkedin.com/in/miarodriguez]
+[GitHub: github.com/miarodriguez]
+
+Objective
+Passionate computer science student with strong analytical and problem-solving skills. Seeking an internship to apply my knowledge in software development and gain hands-on experience in a dynamic tech environment.
+
+Education
+Bachelor of Science in Computer Science
+[Elite University], [City, State]
+[Expected Graduation: May 2025]
+
+GPA: 3.8/4.0
+Relevant Coursework: Advanced Algorithms, Software Design, Cloud Technologies, Data Science, User Experience Design, Mobile Application Development
+Technical Skills
+Programming Languages: Python, Java, C#, JavaScript, SQL
+Web Development: HTML5, CSS3, React, Node.js
+Databases: MySQL, MongoDB
+Tools & Technologies: Git, Docker, Travis CI, AWS, JIRA
+Operating Systems: Linux, macOS, Windows
+Experience
+Software Engineering Intern
+[NextGen Tech], [City, State]
+[June 2023 – August 2023]
+
+Contributed to the development of a cloud-based application using Python and AWS services.
+Assisted in writing unit tests and performing code reviews to ensure high-quality code.
+Collaborated with cross-functional teams to troubleshoot and resolve software issues.
+Technical Support Specialist
+[Campus IT Services], [University Name], [City, State]
+[September 2022 – May 2023]
+
+Provided technical support to students and staff, resolving issues related to hardware, software, and network connectivity.
+Documented support procedures and developed FAQs to streamline issue resolution.
+Projects
+SmartHome - IoT Automation System
+
+Developed an IoT-based home automation system using Raspberry Pi and Python.
+Implemented features such as remote control of home appliances and automated scheduling.
+Designed a mobile app interface for user interaction and control.
+BookFinder - Online Bookstore
+
+Created an online bookstore application using React for the frontend and Node.js for the backend.
+Integrated payment processing and user authentication features.
+Deployed the application on AWS and utilized MongoDB for data storage.
+HealthTrack - Wellness Application
+
+Built a wellness application using Flutter for cross-platform mobile development.
+Implemented features for tracking fitness activities, dietary intake, and health metrics.
+Focused on creating an intuitive user interface and ensuring smooth performance.
+Extracurricular Activities
+AI and Robotics Club
+[Elite University]
+[Member, September 2021 – Present]
+
+Participated in building and programming robots for competitions.
+Attended workshops on artificial intelligence and machine learning.
+Tech Outreach Volunteer
+[Local Tech Hub]
+[January 2023 – Present]
+
+Volunteered to lead coding workshops for high school students.
+Assisted in organizing tech talks and community events focused on technology education.
+Certifications
+AWS Certified Solutions Architect – Associate
+Certified Python Developer
+Languages
+English: Native
+French: Basic
+References
+Available upon request.
+

@@ -1,0 +1,73 @@
+Emily Chen
+[5678 Maple Avenue, City, State, ZIP]
+[Email: emilychen@example.com]
+[Phone: (987) 654-3210]
+[LinkedIn: linkedin.com/in/emilychen]
+[GitHub: github.com/emilychen]
+
+Objective
+Motivated computer science student with a strong foundation in software development and a passion for solving complex problems. Seeking an internship position to apply my skills in programming, project management, and collaborative development.
+
+Education
+Bachelor of Science in Computer Science
+[State University], [City, State]
+[Expected Graduation: May 2025]
+
+GPA: 3.7/4.0
+Relevant Coursework: Advanced Algorithms, Network Security, Mobile App Development, Cloud Computing, Database Management, Software Testing
+Technical Skills
+Programming Languages: Python, Java, C#, JavaScript, SQL
+Web Technologies: HTML5, CSS3, Angular, Vue.js
+Databases: PostgreSQL, Firebase
+Tools & Platforms: Git, Docker, Kubernetes, Azure, VS Code
+Operating Systems: Linux, macOS, Windows
+Experience
+Web Development Intern
+[InnovateTech Solutions], [City, State]
+[June 2023 – August 2023]
+
+Designed and developed interactive web applications using Angular and TypeScript.
+Assisted in the creation of RESTful APIs and integrated them with frontend applications.
+Conducted user testing and feedback sessions to improve application usability.
+Teaching Assistant
+[State University], [City, State]
+[September 2022 – May 2023]
+
+Supported professors in teaching introductory programming courses.
+Helped students with coding assignments and provided guidance on debugging techniques.
+Created educational materials and exercises for lab sessions.
+Projects
+TaskMaster - Task Management App
+
+Built a task management application using React and Node.js, featuring user authentication and task categorization.
+Deployed the application on AWS and utilized MongoDB for data storage.
+Implemented real-time notifications using WebSocket technology.
+SmartCity - Urban Data Visualization
+
+Developed a data visualization tool for analyzing urban data with D3.js and Python.
+Created interactive charts and maps to display city infrastructure and traffic patterns.
+Optimized performance for large datasets and ensured cross-browser compatibility.
+JobFindr - Local Job Aggregator
+
+Created a job aggregator website focused on local job opportunities in a specific city.
+Used Vue.js and TailwindCSS for a responsive and modern user interface.
+Implemented a search and filter functionality to enhance user experience.
+Extracurricular Activities
+Women in Tech Club
+[State University]
+[Member, September 2021 – Present]
+
+Participated in tech talks, mentorship programs, and coding workshops.
+Contributed to the organization of hackathons and networking events.
+Hackathon Participant
+[Various Locations]
+[January 2022 – Present]
+
+Competed in multiple hackathons, working on diverse projects ranging from AI to web applications.
+Awarded “Best Innovation” in a regional hackathon for a health tracking app.
+Certifications
+Microsoft Certified: Azure Fundamentals
+Certified Ethical Hacker (CEH)
+Languages
+English: Native
+Mandarin: Advanced

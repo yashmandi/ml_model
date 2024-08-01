@@ -1,0 +1,72 @@
+Liam Johnson
+[3456 Pine Road, City, State, ZIP]
+[Email: liamjohnson@example.com]
+[Phone: (678) 901-2345]
+[LinkedIn: linkedin.com/in/liamjohnson]
+[GitHub: github.com/liamjohnson]
+
+Objective
+Detail-oriented computer science student with hands-on experience in software development and data analysis. Seeking an internship to leverage my programming skills and contribute to impactful technology solutions.
+
+Education
+Bachelor of Science in Computer Science
+[Global Tech University], [City, State]
+[Expected Graduation: May 2025]
+
+GPA: 3.6/4.0
+Relevant Coursework: Advanced Data Structures, Cloud Computing, Mobile Development, Software Engineering, Big Data, Human-Computer Interaction
+Technical Skills
+Programming Languages: Python, C++, Ruby, JavaScript, SQL
+Web Development: HTML5, CSS3, Vue.js, Flask
+Databases: PostgreSQL, Redis
+Tools & Technologies: Git, Docker, Azure, Travis CI, Jupyter Notebook
+Operating Systems: Linux, Windows, Ubuntu
+Experience
+Software Engineering Intern
+[TechWave Innovations], [City, State]
+[June 2023 – August 2023]
+
+Assisted in developing a scalable microservices architecture using Python and Flask.
+Wrote unit tests and automated scripts to enhance system reliability and performance.
+Participated in code reviews and contributed to improving the development process.
+Data Analyst Intern
+[Insightful Analytics], [City, State]
+[September 2022 – May 2023]
+
+Analyzed large datasets using Python and Pandas, creating actionable insights for the team.
+Developed interactive dashboards with Tableau to visualize key performance indicators.
+Assisted in the implementation of data cleaning and transformation pipelines.
+Projects
+EventPlanner - Event Management System
+
+Built a comprehensive event management platform using Ruby on Rails and Vue.js.
+Implemented features such as event scheduling, ticketing, and attendee management.
+Deployed the application on Azure with continuous integration and delivery pipelines.
+Foodie - Restaurant Recommendation App
+
+Developed a mobile app using Flutter to recommend restaurants based on user preferences.
+Integrated with external APIs for real-time restaurant data and user reviews.
+Focused on creating a user-friendly interface with efficient performance.
+DataViz - Data Visualization Tool
+
+Created a web-based data visualization tool using D3.js and Flask.
+Designed interactive charts and graphs to represent complex datasets.
+Ensured compatibility with various browsers and devices for an optimal user experience.
+Extracurricular Activities
+Tech for Good Club
+[Global Tech University]
+[Member, September 2021 – Present]
+
+Participated in projects aimed at using technology for social impact and community service.
+Assisted in organizing hackathons and workshops for non-profit organizations.
+University Robotics Team
+[Global Tech University]
+[Team Lead, September 2022 – Present]
+
+Led a team in designing and building robots for competitive events.
+Managed project timelines, coordinated team efforts, and presented results.
+Certifications
+Microsoft Certified: Azure Developer Associate
+Certified Data Scientist (CDS)
+Languages
+English: Native

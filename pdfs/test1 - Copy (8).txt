@@ -1,0 +1,79 @@
+
+Certainly! Here’s another example of a computer science student resume:
+
+Oliver Brooks
+[1234 Willow Lane, City, State, ZIP]
+[Email: oliverbrooks@example.com]
+[Phone: (345) 678-9012]
+[LinkedIn: linkedin.com/in/oliverbrooks]
+[GitHub: github.com/oliverbrooks]
+
+Objective
+Enthusiastic computer science student with a solid foundation in software development and a passion for emerging technologies. Seeking an internship position to apply my coding skills, contribute to innovative projects, and further develop my technical expertise.
+
+Education
+Bachelor of Science in Computer Science
+[City College], [City, State]
+[Expected Graduation: May 2025]
+
+GPA: 3.75/4.0
+Relevant Coursework: Algorithms, Database Systems, Web Technologies, Mobile Computing, Network Protocols, Software Development Life Cycle
+Technical Skills
+Programming Languages: C++, Java, Python, JavaScript, PHP
+Web Development: HTML5, CSS3, Bootstrap, Angular
+Databases: MySQL, Firebase
+Tools & Technologies: Git, Docker, CircleCI, Heroku, Eclipse
+Operating Systems: macOS, Linux, Windows
+Experience
+Software Developer Intern
+[Innovative Tech Corp], [City, State]
+[June 2023 – August 2023]
+
+Developed and optimized web applications using Angular and Node.js.
+Implemented API endpoints and integrated third-party services to enhance application functionality.
+Collaborated with senior developers to troubleshoot issues and deploy updates.
+IT Support Intern
+[Tech Solutions LLC], [City, State]
+[September 2022 – May 2023]
+
+Provided technical support for internal systems and end-users, resolving hardware and software issues.
+Assisted in maintaining and updating IT infrastructure and documentation.
+Conducted training sessions for staff on new technologies and best practices.
+Projects
+CodeHub - Code Review Platform
+
+Designed a web-based platform for code review and collaboration using Django and React.
+Implemented features for code submission, peer review, and feedback tracking.
+Deployed the application on Heroku and utilized PostgreSQL for data management.
+TravelBuddy - Trip Planning App
+
+Created a mobile application using React Native to assist users in planning and organizing trips.
+Integrated with Google Maps API for location services and provided users with travel recommendations.
+Focused on creating an intuitive user experience and seamless navigation.
+FinanceTracker - Personal Finance Manager
+
+Developed a personal finance management tool using Python and Flask.
+Included features for budgeting, expense tracking, and financial reporting.
+Implemented data visualization tools to help users analyze their spending patterns.
+Extracurricular Activities
+Computer Science Society
+[City College]
+[Member, September 2021 – Present]
+
+Engaged in coding challenges, tech talks, and networking events.
+Participated in organizing hackathons and technology workshops.
+Coding Volunteer
+[Local Community Center]
+[January 2023 – Present]
+
+Volunteered to teach coding basics to young students and assist with after-school coding clubs.
+Developed educational resources and interactive lessons to engage students.
+Certifications
+Google Cloud Certified – Associate Cloud Engineer
+Certified Java Developer
+Languages
+English: Native
+Spanish: Conversational
+References
+Available upon request.
+

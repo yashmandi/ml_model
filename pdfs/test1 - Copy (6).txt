@@ -1,0 +1,75 @@
+Sophia Patel
+[4321 Birch Lane, City, State, ZIP]
+[Email: sophiapatel@example.com]
+[Phone: (555) 123-4567]
+[LinkedIn: linkedin.com/in/sophiapatel]
+[GitHub: github.com/sophiapatel]
+
+Objective
+Ambitious computer science student with strong problem-solving skills and experience in software development. Looking for an internship opportunity to apply my technical knowledge and contribute to innovative projects in a collaborative environment.
+
+Education
+Bachelor of Science in Computer Science
+[National University], [City, State]
+[Expected Graduation: May 2025]
+
+GPA: 3.85/4.0
+Relevant Coursework: Operating Systems, Computer Networks, Web Development, Database Management, Mobile App Development, Cybersecurity
+Technical Skills
+Programming Languages: Java, Python, C#, JavaScript, SQL
+Web Development: HTML5, CSS3, React, Angular, Node.js
+Databases: MongoDB, MySQL, SQLite
+Tools & Technologies: Git, Docker, Jenkins, Heroku, AWS
+Operating Systems: Linux, Windows, macOS
+Experience
+Software Development Intern
+[FutureTech Solutions], [City, State]
+[June 2023 – August 2023]
+
+Developed features for a cloud-based application using Java and Spring Boot.
+Collaborated with a team of developers to enhance application functionality and performance.
+Participated in daily stand-ups and sprint planning meetings as part of an Agile team.
+IT Support Specialist
+[Campus IT Department], [University Name], [City, State]
+[September 2022 – May 2023]
+
+Provided technical support for software and hardware issues for students and staff.
+Assisted in the deployment and maintenance of university-wide IT systems.
+Developed user guides and documentation to improve system usability.
+Projects
+TaskTracker - Productivity App
+
+Designed and implemented a productivity tracking app using React Native for mobile platforms.
+Incorporated features such as task reminders, goal tracking, and data visualization.
+Deployed the app on Google Play and Apple App Store with positive user feedback.
+SecureChat - Encrypted Messaging Application
+
+Created a secure messaging app with end-to-end encryption using Java and Spring Boot.
+Implemented features like secure login, encrypted message storage, and real-time chat.
+Focused on ensuring robust security measures and data privacy.
+EcoFinder - Environmental Data Dashboard
+
+Developed a web dashboard for visualizing environmental data using Angular and D3.js.
+Integrated APIs to fetch and display data related to air quality, temperature, and pollution levels.
+Optimized performance and user experience for efficient data handling.
+Extracurricular Activities
+Women in Computing Club
+[National University]
+[Member, September 2021 – Present]
+
+Engaged in workshops, hackathons, and networking events focused on women in technology.
+Mentored junior students and organized coding bootcamps.
+Campus Coding Club
+[National University]
+[President, September 2022 – Present]
+
+Led the club in organizing coding competitions, workshops, and guest lectures.
+Facilitated team collaborations and provided resources for coding practice.
+Certifications
+AWS Certified Developer – Associate
+Certified Ethical Hacker (CEH)
+Languages
+English: Native
+Hindi: Fluent
+References
+Available upon request.

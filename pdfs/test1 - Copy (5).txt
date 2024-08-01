@@ -1,0 +1,73 @@
+Alex Morgan
+[7890 Oak Street, City, State, ZIP]
+[Email: alexmorgan@example.com]
+[Phone: (321) 654-9870]
+[LinkedIn: linkedin.com/in/alexmorgan]
+[GitHub: github.com/alexmorgan]
+
+Objective
+Innovative and detail-oriented computer science student eager to apply my programming skills and enthusiasm for technology in a challenging software engineering internship. Committed to learning and contributing to impactful projects.
+
+Education
+Bachelor of Science in Computer Science
+[Tech University], [City, State]
+[Expected Graduation: May 2025]
+
+GPA: 3.9/4.0
+Relevant Coursework: Machine Learning, Data Science, Software Architecture, Web Development, Systems Programming, Cryptography
+Technical Skills
+Programming Languages: C++, Java, Python, JavaScript, TypeScript
+Web Development: HTML, CSS, Django, Flask
+Databases: SQLite, Oracle, Redis
+Tools & Technologies: Git, CI/CD, Kubernetes, Heroku, Postman
+Operating Systems: Windows, Ubuntu, macOS
+Experience
+Software Engineering Intern
+[BrightTech Labs], [City, State]
+[June 2023 – August 2023]
+
+Developed and maintained scalable backend services using Python and Django.
+Assisted in designing and implementing new features for the company’s flagship application.
+Collaborated with cross-functional teams to integrate front-end and back-end components.
+Data Science Intern
+[Data Insights Inc.], [City, State]
+[September 2022 – May 2023]
+
+Analyzed large datasets and created visualizations using Python and Tableau.
+Developed machine learning models to predict user behavior and trends.
+Conducted statistical analysis and reported findings to the data science team.
+Projects
+FitnessTrack - Personal Fitness App
+
+Developed a mobile app using Flutter that tracks user workouts, diet, and progress.
+Implemented real-time synchronization with Firebase and integrated third-party APIs for additional features.
+Designed a clean and user-friendly interface focusing on user experience.
+WeatherSense - Weather Forecasting Tool
+
+Created a web application using React and Node.js that provides real-time weather updates and forecasts.
+Integrated with external weather APIs to retrieve and display accurate weather data.
+Implemented a responsive design to ensure compatibility across different devices.
+E-Shop - E-commerce Platform
+
+Built a full-stack e-commerce application with Django for the backend and React for the frontend.
+Developed features such as product listings, shopping carts, and payment integration.
+Deployed the application on Heroku and used PostgreSQL for database management.
+Extracurricular Activities
+Tech Enthusiasts Club
+[Tech University]
+[Member, September 2021 – Present]
+
+Participated in workshops on emerging technologies and software development.
+Contributed to community projects and organized tech meetups.
+Coding Bootcamp Mentor
+[Local Community Center]
+[February 2023 – Present]
+
+Mentored beginners in coding bootcamps, providing guidance on Python and web development.
+Developed educational materials and exercises to facilitate learning.
+Certifications
+Google Cloud Professional Data Engineer
+Certified ScrumMaster (CSM)
+Languages
+English: Native
+German: Intermediate

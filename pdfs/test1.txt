@@ -1,0 +1,84 @@
+                 Leonard Beadle
+                                                             Software Engineer
+
+             Contacts                          Summary
+                                             Experienced software engineer with over 8 years of hands-on experience in
+          EMAIL AVAILABLE
+                                             developing robust and user-friendly applications.
+          PHONE NUMBER AVAILABLE                   Proven track record of successfully delivering high-quality projects and
+                                             leading frontend and backend development teams.
+                                             Expertise in leveraging modern web technologies, frameworks, and libraries
+                                             to create innovative and immersive user experiences in the blockchain
+                                             industry.
+                  Skills
+    Languages
+    Python, Java/Spring Boot, PHP/Laravel,
+    React, NextJS, SolidJS, React-Query,
+                                              Experience
+    VueJS, NuxtJS, Express, MongoDB,
+                                             Senior Software Engineer, Luna, 2021-2024
+    MySQL, Postgress, GraphQL,
+                                                    Develop chatbots using ChatGPT, Rasa and Langchain, creating
+    WebSockets Tailwind, Typescript, SASS           conversational agents with natural language understanding and
+    Artificial Intelligence                         dialogue management capabilities.
+                                                    Advanced expertise in computer vision, leading projects to extract
+    TensorFlow, Pytorch, Scikit-learn,
+                                                    meaningful insights from visual data, contributing to the
+    Langchain, LLMs, OpenCV,                        development of systems with applications in surveillance,
+    Huggingface                                     autonomous vehicles, and augmented reality.
+                                                    Familiar with popular ML libraries and frameworks like
+    Other
+                                                    TensorFlow, PyTorch, Keras, and scikit-learn, leveraging them for
+    Amazon Web Service, Google Cloud                various machine learning projects.
+    Platform, ViteJS, Turborpo, Playwright          Built NFT marketing platform and Gaming app using NextJs,
+                                                    Tailwind CSS, Typescript, MUI and Graphql
+                                                    Used blockchain technologies such as web3js, Moralis, IPFS,
+                                                    wagmi and web3Modal
+                                                    Collaborated with smart contract engineer and designers closely
+                Education                           Built the backend infractructure and cron jobs using
+    Jilin University, Jilin, China, 20014            nodejs, graphql, postgresql and prisma ensuring the transactions are
+    Bachelor s degree of Computer Science,          processed correctly.
+    2015                                            Used Jest for unit testing and playwright for e2e testing
+                                                    Strong problem-solving skills and a deep passion for tackling
+                                                    complex technical challenges.
+                                                    Collaborate closely with cross-functional teams, understanding
+                                                    business objectives and translating them into solutions.
+
+                                             Full Stack Developer, JoinPiggy, 2019-2021
+
+                                                    Developed the amazing free coupon web app and browser extension
+                                                    using VueJs
+                                                    Contributed to backend infrastructure using python, nodejs and
+                                                    postgresql
+                                                    Set up CI/CD pipeline on AWS, automating the build, testing and
+                                                    deployment processes
+       Deployed applications on multiple cloud-based production
+       environments and maintained staging environments for testing,
+       leading to smoother releases
+       Integrated a wide range of third-party services and components like
+       payment gateways, geo-location services, and social media logins
+       Created web-based CMSs to enable simplified content management,
+       resulting in quicker updates to site information and features
+
+Senior Frontend Engineer, Jaggo, 2017-2019
+
+       Worked on mono repo structure project for a largest-scale web
+       application and reduced code duplication by 30% and made the
+       development more efficient.
+       Worked with designers to create a fully responsive UI/UX based on
+       Material-UI, with custom theming, accessiblity and
+       internationalization
+       Converted the codebase from Javascript to Typescript which
+       improved code standards, avoided type mismatch and warnings.
+       Worked and created an e-commerce website using PHP, MySQL, and
+       JavaScript.
+       Develop front-end code using HTML, CSS, JavaScript, jQuery to
+       create a responsive web application that works across 29 devices,
+       including desktops and tablets
+
+Web Developer, ITRex Group, 2016-2017
+
+       Worked closely with designers to move a legacy web platform from
+       jquery/AngularJS to React
+       Used React to create a reusable UI components that made the
+       website more use-friendly and consistent

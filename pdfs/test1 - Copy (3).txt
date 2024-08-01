@@ -1,0 +1,74 @@
+John Doe
+[1234 Elm Street, City, State, ZIP]
+[Email: johndoe@example.com]
+[Phone: (123) 456-7890]
+[LinkedIn: linkedin.com/in/johndoe]
+[GitHub: github.com/johndoe]
+
+Objective
+A dedicated and enthusiastic computer science student seeking an internship or entry-level position to leverage my technical skills and contribute to innovative projects in software development.
+
+Education
+Bachelor of Science in Computer Science
+[University Name], [City, State]
+[Expected Graduation: May 2025]
+
+GPA: 3.8/4.0
+Relevant Coursework: Data Structures, Algorithms, Database Systems, Operating Systems, Software Engineering, Artificial Intelligence, Machine Learning
+Technical Skills
+Programming Languages: Java, Python, C++, JavaScript, SQL
+Web Development: HTML, CSS, React, Node.js, Express.js
+Databases: MySQL, MongoDB
+Tools & Technologies: Git, Docker, AWS, Jenkins, JIRA
+Operating Systems: Windows, Linux
+Experience
+Software Development Intern
+[Tech Solutions Inc.], [City, State]
+[June 2023 – August 2023]
+
+Developed and maintained web applications using JavaScript, React, and Node.js.
+Collaborated with a team of developers to design and implement RESTful APIs.
+Conducted code reviews and implemented improvements to enhance code quality and performance.
+Participated in Agile development processes and used JIRA for project management.
+Research Assistant
+[University Name], [City, State]
+[September 2022 – May 2023]
+
+Assisted in research on machine learning algorithms for natural language processing.
+Developed Python scripts to preprocess and analyze large datasets.
+Contributed to the writing and publication of research papers.
+Projects
+Scribbie Notes App
+
+Developed a full-stack notes application with features including CRUD operations and Google OAuth login.
+Utilized React for frontend development and Node.js with Express for backend.
+Deployed the application on Vercel: Frontend, Backend.
+Indian Agriculture Analytics
+
+Analyzed agricultural datasets to generate insights and visualizations using TypeScript and React.
+Implemented data aggregation and table components using Mantine v7.
+Ensured code efficiency and cleanliness without using helper libraries.
+Growjob - Job Board Application
+
+Created a job board website focusing on job listings in Pune, Maharashtra, India.
+Used React, Vite, and TailwindCSS to build a pixel-perfect replica of the Telegram messaging application.
+Integrated with API endpoints to display chats and messages.
+Extracurricular Activities
+Computer Science Club
+[University Name]
+[Member, September 2021 – Present]
+
+Participated in coding competitions and hackathons.
+Attended workshops and seminars on emerging technologies.
+Volunteer Tutor
+[University Name]
+[September 2022 – Present]
+
+Provided tutoring in computer science subjects to fellow students.
+Organized study groups and review sessions before exams.
+Certifications
+AWS Certified Solutions Architect – Associate
+Certified Java Programmer
+Languages
+English: Fluent
+Spanish: Intermediate
